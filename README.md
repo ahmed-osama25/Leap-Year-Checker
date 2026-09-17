@@ -70,7 +70,7 @@ Enter A year: 2024
 ```text
 Leap-Year-Checker/
 │
-└── main.cpp
+└── leap year.cpp
 ```
 
 ## 🎯 Purpose
